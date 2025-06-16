@@ -1,6 +1,7 @@
 # Initial State - EON-1 Orbital Mission
 
 A simple gravitational orbit simulation game built with Python and Pygame.
+Read the write-up blog [here](https://github.com/HazmanNaim/initial-state-pygame/wiki/Write-Up-Blog)!
 
 ## Game Background
 
